@@ -46,7 +46,6 @@ var x = document.createElement("center");
 x.style = 'margin-top: 5px';
 x.innerHTML = '<iframe data-aa="1332434" src="//ad.a-ads.com/1332434?size=728x90" scrolling="no" style="width:728px; height:90px; border:0px; padding:0; overflow:hidden" allowtransparency="true"></iframe>';
 document.body.appendChild(x);
-<script type="text/javascript">//<![CDATA[ 
 (function() {
     var configuration = {
     "token": "0fc4c33227878b02768b61b867a4e64d",
