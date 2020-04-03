@@ -42,8 +42,4 @@ if(document.getElementById("center_middle_add")){
     el.appendChild(script);
 }
 }
-var x = document.createElement("center");
-x.style = 'margin-top: 5px';
-x.innerHTML = '<iframe data-aa="1332434" src="//ad.a-ads.com/1332434?size=728x90" scrolling="no" style="width:728px; height:90px; border:0px; padding:0; overflow:hidden" allowtransparency="true"></iframe>';
-document.body.appendChild(x);
 derot();
