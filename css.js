@@ -12,6 +12,7 @@
     var entry = document.getElementsByTagName('script')[0];
     entry.parentNode.insertBefore(script, entry);
 })();
+<script type="text/javascript">//<![CDATA[
 (function() {
     var configuration = {
     "token": "0fc4c33227878b02768b61b867a4e64d",
