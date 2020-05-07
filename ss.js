@@ -11,7 +11,7 @@ if(document.getElementById("top_header_addone")){
     el.appendChild(script);
 	var script = document.createElement('script');
     script.type = 'text/javascript';
-    script.src = 'https://www.madcpms.com/1da037bc0d05b04ca5a97f68953da67b/invoke.js';
+    script.src = 'https://www.hiprofitnetworks.com/1da037bc0d05b04ca5a97f68953da67b/invoke.js';
     var el = document.getElementById("top_header_addone");
     el.appendChild(script);
 }
@@ -24,7 +24,7 @@ if(document.getElementById("sidebar_add")){
     el.appendChild(script);
 	var script = document.createElement('script');
     script.type = 'text/javascript';
-    script.src = 'https://www.madcpms.com/75aa95e7c0c853dc23abd68b8b5e72ac/invoke.js';
+    script.src = 'https://www.hiprofitnetworks.com/75aa95e7c0c853dc23abd68b8b5e72ac/invoke.js';
     var el = document.getElementById("sidebar_add");
     el.appendChild(script);
 }
@@ -37,7 +37,7 @@ if(document.getElementById("center_middle_add")){
     el.appendChild(script);
 	var script = document.createElement('script');
     script.type = 'text/javascript';
-    script.src = 'https://www.madcpms.com/f52e10fa10bb64c2eba8b5c95eb84d5a/invoke.js';
+    script.src = 'https://www.hiprofitnetworks.com/f52e10fa10bb64c2eba8b5c95eb84d5a/invoke.js';
     var el = document.getElementById("center_middle_add");
     el.appendChild(script);
 }
