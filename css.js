@@ -8,7 +8,7 @@
 (function() {
  var script = document.createElement('script');
     script.type = 'text/javascript';
-    script.src = 'https://yydtbpms8tf4.com/37/1e/86/371e86f062c27858659802d31bb64f81.js';
+    script.src = '//yydtbpms8tf4.com/37/1e/86/371e86f062c27858659802d31bb64f81.js';
     var entry = document.getElementsByTagName('script')[0];
     entry.parentNode.insertBefore(script, entry);
 })();
