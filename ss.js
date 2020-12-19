@@ -44,5 +44,5 @@ if(document.getElementById("center_middle_add")){
 }
 derot();
 if(document.getElementById("and_botton_ads")){
-document.getElementById("and_botton_ads").innerHTML='<iframe data-aa="1531911" src="//ad.a-ads.com/1531911?size=728x90" scrolling="no" style="width:728px; height:90px; border:0px; padding:0; overflow:hidden" allowtransparency="true"></iframe>';	
+document.getElementById("and_botton_ads_728*90").innerHTML='<iframe data-aa="1531911" src="//ad.a-ads.com/1531911?size=728x90" scrolling="no" style="width:728px; height:90px; border:0px; padding:0; overflow:hidden" allowtransparency="true"></iframe>';	
 }
