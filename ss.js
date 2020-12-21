@@ -44,11 +44,11 @@ if(document.getElementById("center_middle_add")){
 }
 derot();
 if(document.getElementById("and_botton_ads_72890")){
-document.getElementById("and_botton_ads_72890").innerHTML='<iframe data-aa="1531911" src="//ad.a-ads.com/1531911?size=728x90" scrolling="no" style="width:728px; height:90px; border:0px; padding:0; overflow:hidden" allowtransparency="true"></iframe>';	
+document.getElementById("and_botton_ads_72890").innerHTML='<x>';	
 }
 if(document.getElementById("and_botton_ads_46860")){
-document.getElementById("and_botton_ads_46860").innerHTML='<iframe data-aa="1531929" src="//ad.a-ads.com/1531929?size=468x60" scrolling="no" style="width:468px; height:60px; border:0px; padding:0; overflow:hidden" allowtransparency="true"></iframe>';
+document.getElementById("and_botton_ads_46860").innerHTML='<x>';
 }
 if(document.getElementById("and_botton_ads_300250")){
-document.getElementById("and_botton_ads_300250").innerHTML='<iframe data-aa="1531933" src="//ad.a-ads.com/1531933?size=300x250" scrolling="no" style="width:300px; height:250px; border:0px; padding:0; overflow:hidden" allowtransparency="true"></iframe>';
+document.getElementById("and_botton_ads_300250").innerHTML='<x>';
 }
