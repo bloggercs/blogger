@@ -1,13 +1,4 @@
 (function() {
-var script = document.createElement('script');
-script.async = true;
-script.type = "text/javascript";
-script.charset = "UTF-8";
-script.src = 'https://urmilan.info/script.js?sid=915403';
-var entry = document.getElementsByTagName('script')[0];
-entry.parentNode.insertBefore(script, entry);
-})();
-(function() {
  var script = document.createElement('script');
     script.async = true;
     script.type = 'text/javascript';
