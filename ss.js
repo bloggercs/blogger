@@ -47,8 +47,8 @@ if(document.getElementById("and_botton_ads_72890")){
 document.getElementById("and_botton_ads_72890").innerHTML='<iframe data-aa="1541835" src="//ad.a-ads.com/1541835?size=728x90" scrolling="no" style="width:728px; height:90px; border:0px; padding:0; overflow:hidden" allowtransparency="true"></iframe>';	
 }
 if(document.getElementById("and_botton_ads_46860")){
-document.getElementById("and_botton_ads_46860").innerHTML='<x>';
+document.getElementById("and_botton_ads_46860").innerHTML='<iframe data-aa="1541860" src="//ad.a-ads.com/1541860?size=468x60" scrolling="no" style="width:468px; height:60px; border:0px; padding:0; overflow:hidden" allowtransparency="true"></iframe>';
 }
 if(document.getElementById("and_botton_ads_300250")){
-document.getElementById("and_botton_ads_300250").innerHTML='<x>';
+document.getElementById("and_botton_ads_300250").innerHTML='<iframe data-aa="1541862" src="//ad.a-ads.com/1541862?size=300x250" scrolling="no" style="width:300px; height:250px; border:0px; padding:0; overflow:hidden" allowtransparency="true"></iframe>';
 }
