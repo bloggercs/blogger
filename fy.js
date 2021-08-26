@@ -42,5 +42,4 @@ if(document.getElementById("center_middle_add")){
     el.appendChild(script);
 }
 }
-derot();
-}
+derot(); }
