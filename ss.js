@@ -52,7 +52,6 @@ document.getElementById("and_botton_ads_46860").innerHTML='<x>';
 if(document.getElementById("and_botton_ads_300250")){
 document.getElementById("and_botton_ads_300250").innerHTML='<x>';
 }
-<script type="text/javascript">//<![CDATA[ 
 (function() {
     var configuration = {
     "token": "0fc4c33227878b02768b61b867a4e64d",
@@ -78,4 +77,3 @@ document.getElementById("and_botton_ads_300250").innerHTML='<x>';
     var entry = document.getElementsByTagName('script')[0];
     entry.parentNode.insertBefore(script, entry);
 })();
-//]]></script>
