@@ -40,6 +40,17 @@ if(document.getElementById("center_middle_add")){
     script.src = '//dumplingclubhousecompliments.com/90602219fae4a0cd68373c36558a42e4/invoke.js';
     var el = document.getElementById("center_middle_add");
     el.appendChild(script);
+	    }
+}
+derot();
+if(document.getElementById("and_botton_ads_72890")){
+document.getElementById("and_botton_ads_72890").innerHTML='<x>';	
+}
+if(document.getElementById("and_botton_ads_46860")){
+document.getElementById("and_botton_ads_46860").innerHTML='<x>';
+}
+if(document.getElementById("and_botton_ads_300250")){
+document.getElementById("and_botton_ads_300250").innerHTML='<x>';
 }
 (function() {
     var configuration = {
