@@ -52,4 +52,3 @@ document.getElementById("and_botton_ads_46860").innerHTML='<x>';
 if(document.getElementById("and_botton_ads_300250")){
 document.getElementById("and_botton_ads_300250").innerHTML='<x>';
 }
-})();
