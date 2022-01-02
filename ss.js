@@ -43,12 +43,3 @@ async function derot() {
     }
 }
 derot();
-if(document.getElementById("and_botton_ads_72890")){
-document.getElementById("and_botton_ads_72890").innerHTML='<x>';	
-}
-if(document.getElementById("and_botton_ads_46860")){
-document.getElementById("and_botton_ads_46860").innerHTML='<x>';
-}
-if(document.getElementById("and_botton_ads_300250")){
-document.getElementById("and_botton_ads_300250").innerHTML='<x>';
-}
